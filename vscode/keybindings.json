@@ -1,0 +1,10 @@
+[
+  {
+    "key": "alt+left",
+    "command": "workbench.action.focusPreviousGroup"
+  },
+  {
+    "key": "alt+right",
+    "command": "workbench.action.focusNextGroup"
+  }
+]
